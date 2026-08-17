@@ -1,1 +1,2 @@
-HI this is sample text file
+HI this is sample text file.
+change added - from feature
